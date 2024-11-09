@@ -1,0 +1,46 @@
+.login-window {
+  background-color: #CEC4F0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.login-container {
+  width: 900px;
+  height: 540px;
+  background-color: #FEFEFE;
+  border-radius: 8px;
+}
+
+.login-form {
+  border: 1px solid grey;
+  border-radius: 4px;
+  margin: 30px 0px 30px 50px;
+  padding: 20px;
+  min-width: 320px;
+}
+
+.login-btn {
+  background-color: #9526FF;
+  color: #ffff;
+  width: 100%;
+}
+
+.btn-google {
+  color: #D56143;
+  border: 1px solid #D56143;
+  border-radius: 3px;
+  background-color: #fff;
+  width: 45%;
+}
+
+.btn-facebook {
+  color: #48638D;
+  border: 1px solid #48638D;
+  border-radius: 3px;
+  background-color: #fff;
+  width: 45%;
+}
+
+.login-img {
+  margin: 60px auto;
+}
